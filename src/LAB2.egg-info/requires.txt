@@ -1,0 +1,9 @@
+setuptools
+tk
+pytest
+importlib
+tkcalendar
+
+[formatting]
+pylint
+black
