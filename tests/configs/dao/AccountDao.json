@@ -1,0 +1,6 @@
+{
+  "fields": [
+    "username", "password", "type", "flags"
+  ],
+  "primary": "username"
+}
